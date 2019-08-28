@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">How Smart Devices Can Help Solve the Challenge of Climate Change</string>
+    <string name="article_subtitle">They can help consumers be much more aware of—and aid them in reducing or changing—their energy use</string>
+    <string name="article_text">Consumers are becoming increasingly aware of the need to make sustainable lifestyle choices in the face of the climate crisis. At the same time, companies and decision-makers with larger economic footprints and purchasing power are responding to this consumer demand while recognizing the business case for decarbonization.
+\n\n
+Technology companies in particular have become leaders in reducing energy use and investing in low- and no-carbon energy generation to power their business operations. These same companies have also developed consumer devices that facilitate climate-friendly choices. Tackling the many causes of the climate crisis means reducing emissions wherever possible, and by enabling consumers to take part in this movement—and leading the way on carbon-free power purchases—the tech industry could make meaningful impacts across the entire economy.We’re all facing the reality of the climate crisis
+\n\n
+It is widely understood that the climate crisis is already having profound effects on the global economy and public health, and these will only intensify over time. Extreme weather events are becoming more common and will continue to affect infrastructure and day-to-day life for millions around the globe. With such wide-reaching implications, consumers and businesses are equally incentivized to take action.
+\n\n
+Consumers are demanding that businesses show leadership in the shift toward sustainability by improving the environment and making climate-conscious decisions easier for everyone. A recent report indicates that 81 percent of global respondents strongly believe companies should help to improve the environment, and a 2018 survey found that 88 percent of U.S. and U.K. consumers want brands to help them be more environmentally conscious. Companies are facing pressure from these eco-conscious customers, along with the risk of annual losses reaching “hundreds of billions of dollars by the end of the century,” according to the Fourth National Climate Assessment, released last year. As a result, tech companies are taking a two-pronged approach by reducing emissions in their own operations and developing smart devices that simplify consumers’ choices about energy use and make it easier to live sustainably.
+\n\n
+Technology companies must continue to show corporate leadership
+\n\n
+Large amounts of energy are required to power the systems and infrastructure that keep our connected lives running smoothly, and customers have ever-higher expectations of technology companies and product manufacturers when it comes to climate action. Fortunately, our industry is stepping up to the plate, and as of 2018 tech companies were contracting more renewable energy than any other sector of the global economy. At Google, we recently announced that we had purchased enough renewable energy to power our global operations for the second year running. Facebook is on track to achieve a similar goal by next year, and Apple is greening its value chain, with an increasing number of suppliers committing to the target of 100 percent renewable energy.
+\n\n
+The importance of these climate actions is highlighted in the Global Climate Action Summit’s Exponential Climate Action Roadmap, a comprehensive resource that outlines strategies for reaching emissions-reduction targets set in the Paris Climate Agreement. Beyond stating the value of corporate emissions reductions, the Roadmap reiterates a request already being made by consumers—for the tech industry to simplify customers’ eco-conscious decisions.
+\n\n
+Smart devices and connected homes help consumers save energy
+\n\n
+At Google Nest, we are working to help consumers achieve widespread adoption of energy-saving devices because we know smart technology resources can play a critical role in addressing these broad challenges. For example, in 2018 Nest thermostats helped our customers save 10 terawatt-hours of energy, equivalent to the amount of renewable energy that Google purchased for all operations that year. As we make smart technology more accessible to more people, our impact will only continue to grow.
+\n\n
+Connected homes (including, but not limited to, those with smart thermostats) help streamline consumers’ daily decisions about resource consumption in a holistic way. Connected devices can make sustainability an easier choice by saving energy automatically, with permission, on behalf of busy households. These savings benefit customers, as well as the utilities generating and delivering the energy, while also reducing energy use and greenhouse gas emissions.</string>
+    <string name="add_comment">Add Comment</string>
+</resources>
